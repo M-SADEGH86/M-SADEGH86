@@ -16,7 +16,7 @@
 
 <div>
     <a href="https://github.com/M-SADEGH86/Slider">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-SADEGH86&repo=Slider&theme=algolia&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-SADEGH86&repo=Pig-Game&theme=algolia&hide_border=true">
     </a>
     <a href="https://github.com/M-SADEGH86/To-Do-List">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-SADEGH86&repo=To-Do-List&theme=algolia&hide_border=true">
