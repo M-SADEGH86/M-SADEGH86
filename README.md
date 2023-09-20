@@ -15,7 +15,7 @@
 ## Last Project
 
 <div>
-    <a href="https://github.com/M-SADEGH86/Slider">
+    <a href="https://github.com/M-SADEGH86/Pig-Game">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-SADEGH86&repo=Pig-Game&theme=algolia&hide_border=true">
     </a>
     <a href="https://github.com/M-SADEGH86/To-Do-List">
