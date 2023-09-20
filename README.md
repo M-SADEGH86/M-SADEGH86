@@ -31,6 +31,6 @@
       <img width=400 src="https://github-readme-stats.vercel.app/api?username=M-SADEGH86&show_icons=true&theme=algolia&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/M-SADEGH86" title="Go to Source">
-      <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=M-SADEGH86&theme=algolia" />
+      <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-SADEGH86&layout=donut&theme=algolia"/>
     </a>
 </div>
